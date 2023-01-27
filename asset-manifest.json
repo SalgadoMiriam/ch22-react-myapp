@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SalgadoMiriam/ch22-react-myapp/static/css/main.1980f1fb.css",
+    "main.js": "/SalgadoMiriam/ch22-react-myapp/static/js/main.047ebc82.js",
+    "index.html": "/SalgadoMiriam/ch22-react-myapp/index.html",
+    "main.1980f1fb.css.map": "/SalgadoMiriam/ch22-react-myapp/static/css/main.1980f1fb.css.map",
+    "main.047ebc82.js.map": "/SalgadoMiriam/ch22-react-myapp/static/js/main.047ebc82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1980f1fb.css",
+    "static/js/main.047ebc82.js"
+  ]
+}
